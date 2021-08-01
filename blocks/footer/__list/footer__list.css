@@ -1,0 +1,9 @@
+.footer__list{
+    width: 470px;
+}
+
+@media screen and  (max-width:320px){
+    .footer__list{
+        width:186px;
+    }
+}

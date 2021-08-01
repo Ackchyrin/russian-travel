@@ -1,0 +1,20 @@
+.travel{
+    width:76.25vmin;
+    margin: 56px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and  (max-width:1024px){
+    .travel{
+        width:90.6vmin;
+        margin-left:auto;
+    }
+}
+
+@media screen and  (max-width:768px){
+    .travel{
+        width:100%;
+        margin:56px 0;
+    }
+}

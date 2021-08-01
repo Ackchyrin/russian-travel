@@ -1,0 +1,11 @@
+.travel__image{
+    width:100%;
+    margin-top: 64px;
+}
+
+@media screen and  (max-width:320px){
+    .travel__image{
+        height: 200px;
+        margin-top: 40px;
+    }
+}

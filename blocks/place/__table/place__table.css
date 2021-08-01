@@ -1,0 +1,26 @@
+.place__table{
+    padding: 0;
+    margin:0 0 0 40px;
+    min-width:450px;
+}
+
+@media screen and  (max-width:1024px){
+.place__table{
+    min-width:335px;
+    margin: 0 0 0 32px;
+}
+}
+
+@media screen and  (max-width:768px){
+.place__table{
+    min-width:220px;
+    margin: 0 0 0 28px;
+ }
+}
+
+@media screen and  (max-width:320px){
+.place__table{
+    max-width:288px;
+    margin: 0 0 0 16px;
+}
+}
