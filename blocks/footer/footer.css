@@ -5,18 +5,14 @@
     justify-content:space-between;
 }
 
-@media screen and  (max-width:1024px){
-    .footer{
-        width:90vmin;
-    }
-}
 
 @media screen and  (max-width:768px){
     .footer{
-        max-width:94vmin;
         margin-left:24px;
+      padding-top: 64px;
+      flex-direction: column;
     }
-}
+}   
 
 @media screen and  (max-width:320px){
     .footer{

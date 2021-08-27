@@ -5,6 +5,15 @@
     line-height: 100px;
     font-weight: 900;
     color: #fff;
+    max-width:720px;
+}
+
+@media screen and  (max-width:720px){
+    .travel__title{
+        font-size: 12vw;
+        line-height: 1.15;
+        max-width: 90%;
+    }
 }
 
 @media screen and  (max-width:320px){
@@ -13,3 +22,10 @@
         line-height: 44px;
     }
 }
+  
+  @media screen and (max-width: 319px) {
+    .travel__title{
+      font-size:12vw;
+      line-height:1.15;
+    }
+  }

@@ -1,14 +1,14 @@
 .travel{
-    width:76.25vmin;
-    margin: 56px auto;
+    max-width:984px;
+    margin: 56px 148px 0;
     display: flex;
     flex-direction: column;
 }
 
 @media screen and  (max-width:1024px){
     .travel{
-        width:90.6vmin;
-        margin-left:auto;
+        max-width:928px;
+        margin:56px 48px 0;
     }
 }
 
