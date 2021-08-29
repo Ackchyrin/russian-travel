@@ -6,9 +6,3 @@
       line-height: 24px;
     }
   }
-
-@media screen and  (max-width:320px){
-    .footer__link-item{
-        margin-top:32px;
-    }
-}

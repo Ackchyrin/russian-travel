@@ -5,10 +5,10 @@
     line-height: 22px;
     color: #fff;
     text-align: center;
-    margin: 32px auto;
+    margin: 32px 0;
 }
 
-@media screen and  (max-width:768px){
+@media screen and  (max-width:767px){
     .cover__subtitle{
         font-size: 4vw;
         line-height: 1.1;

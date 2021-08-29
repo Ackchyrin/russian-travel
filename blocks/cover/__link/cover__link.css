@@ -3,6 +3,10 @@
     width:100%;
     min-height:740px;
     display:block;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
 }
 
 @media screen and  (max-width:1024px){
